@@ -1,6 +1,7 @@
 Employee Master
 A Flutter application for managing employee data with BLoC state management and Hive local database.
 
+
 Features
 ✅ Add, edit, and delete employee data.
 ✅ Employee data is persisted using Hive (local database).
