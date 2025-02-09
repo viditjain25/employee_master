@@ -14,3 +14,5 @@ Flutter: v3.27.4
 State Management: BLoC
 Local Database: Hive
 Dependency Injection: get_it
+
+Netlify deployment link   :https://genuine-begonia-8f3130.netlify.app/
